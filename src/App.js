@@ -91,7 +91,7 @@ return data?.length===0?<Shimmer />:
         </div>
 
         <button className="w-[100%] bg-black mt-[5px] text-white border rounded-lg p-[5px]">
-          Add New Transaction
+          Add New Transaction here
         </button>
       </form>
        
